@@ -1,5 +1,10 @@
 Copyright (c) 2014 Christoph Klocker
 
+Licensed to CRATE Technology GmbH (referred to in this notice as "Crate")
+under one or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information regarding copyright
+ownership.
+
 This software is licensed under the Apache 2 license, quoted below.
 
 Licensed under the Apache License, Version 2.0 (the "License");
